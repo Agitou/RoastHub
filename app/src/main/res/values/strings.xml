@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">RoastHub</string>
     <string name="title_activity_roast">Roast</string>
+    <string name="buttonSubmit">Submit</string>
+    <string name="username">Username</string>
+    <string name="title_activity_messaging">Messaging</string>
 </resources>

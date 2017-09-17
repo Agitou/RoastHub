@@ -18,6 +18,7 @@ public class Roast extends AppCompatActivity {
     double progress=0;
     int value = 50;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
